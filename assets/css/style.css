@@ -344,7 +344,7 @@ nav {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 12px;
+  gap: 10px;
   margin-top: 22px;
   flex-wrap: wrap;
   opacity: 0;
@@ -352,20 +352,29 @@ nav {
 }
 
 .intro-contact-link {
-  width: 42px;
-  height: 42px;
-  border-radius: 50%;
+  min-height: 36px;
+  padding: 0 13px;
+  border-radius: 6px;
   border: 1px solid var(--border-light);
   background: var(--bg-editor);
-  color: var(--text-muted);
+  color: var(--text-main);
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  transition: transform var(--duration-fast) var(--ease-standard), color var(--duration-fast) var(--ease-standard), border-color var(--duration-fast) var(--ease-standard);
+  gap: 7px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  line-height: 1;
+  box-shadow: var(--shadow-sm);
+  transition: transform var(--duration-fast) var(--ease-standard), color var(--duration-fast) var(--ease-standard), border-color var(--duration-fast) var(--ease-standard), background-color var(--duration-fast) var(--ease-standard);
+}
+
+.intro-contact-link span {
+  white-space: nowrap;
 }
 
 .intro-contact-link i {
-  font-size: 1.1rem;
+  font-size: 0.82rem;
 }
 
 .intro-contact-link:hover {

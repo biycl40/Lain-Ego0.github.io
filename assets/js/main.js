@@ -258,11 +258,11 @@
   ];
 
   const CONTACT_LINKS = [
+    { icon: 'fas fa-envelope', key: 'contact.email', link: 'mailto:lain-ego@qq.com' },
     { icon: 'fab fa-bilibili', key: 'contact.bilibili', link: 'https://space.bilibili.com/385516781/upload/video' },
     { icon: 'fab fa-github', key: 'contact.github', link: 'https://github.com/Lain-Ego0' },
     { icon: 'fab fa-twitter', key: 'contact.twitter', link: 'https://x.com/Lain_Ego0' },
     { icon: 'fab fa-zhihu', key: 'contact.zhihu', link: 'https://www.zhihu.com/people/hua-99-50-21' },
-    { icon: 'fas fa-envelope', key: 'contact.email', link: 'mailto:lain-ego@qq.com' },
   ];
 
   function qs(selector, root = document) {
@@ -430,7 +430,7 @@
       }
       item.title = label;
       item.setAttribute('aria-label', label);
-      item.innerHTML = `<i class="${contact.icon}"></i>`;
+      item.innerHTML = `<span>${label}</span><i class="${contact.icon}"></i>`;
       container.appendChild(item);
     });
   }
