@@ -8,12 +8,11 @@
     "documents": "Articles"
   },
   "intro": {
-    "avatarAlt": "Lain-Ego's avatar",
-    "title": "Hello, I'm Lain",
-    "desc": "Robotics developer and junior undergraduate.<br>Currently interning at a humanoid robotics company.<br>Focused on MCU and Linux application development, motion control, RL deployment, and robot perception."
-  },
+    "avatarAlt": "Zhengbing He's avatar",
+    "title": "Hello, I'm Zhengbing He",
+    "desc": "Professor in Autonomous and Intelligent Systems. University of Nottingham Ningbo China. As a principal investigator, I have secured funding exceeding $1 million for national-level (key) projects. I have published 180+ academic papers, including 50+ published exclusively in the prestigious journal series of Transportation Research and IEEE Transactions. I am proud that I have published papers across the entire Transportation Research family (TR A/B/C/D/E/F), 20+ TRC and 10+ TITS. And, a Correspondence in Nature.Total citations: 8000+, i10-index: 100+, H-index: 40+. I am an IEEE senior member and was listed as World’s Top 2% Scientists, ranking 67/30,588 in Transportation & Logistics (23,536 in all fields). I serve as a Senior Editor for IEEE Transactions on Intelligent Transportation Systems, a Deputy Editor-in-Chief for IET Intelligent Transport Systems, an Associate Editor for IEEE Transactions on Intelligent Vehicles, an Editorial Advisory Board member for Transportation Research Part C, etc.My research lies at the intersection of urban mobility, systems engineering, and artificial intelligence, spanning from traditional topics such as traffic flow operations and control, sustainability, and resilience to emerging areas including data-driven modeling, autonomous driving, and large language models. In particular, I am a pioneer and long-term contributor in AI-driven transportation modeling and AV-empowered traffic mitigation, and an early innovator in generative AI applications in transportation (see Scientific Contributions below)." },
   "projects": {
-    "title": "Projects",
+    "title": "Scientific Contributions",
     "imgAlt": "Project image",
     "links": {
       "code": "Code",
@@ -27,29 +26,29 @@
       "vision": "Vision"
     },
     "item0": {
-      "title": "Questech Humanoid Robot",
-      "desc": "Participated in early-stage R&D and iteration of a humanoid robot at Qianxing Intelligence, focusing on motion-control algorithms, action-data processing, control-framework development, and real-hardware debugging. Work covered motion retargeting and motion-capture data flow, driver-layer collaboration, hierarchical policy validation in simulation training, and preprocessing optimization for perception detection.",
-      "tags": ["Humanoid Robotics", "Motion Control", "Reinforcement Learning", "Motion Capture", "Robot Perception"]
+      "title": "Pioneer and long-term contributor to AI-based transportation modeling",
+      "desc": "Car-following and lane-changing models are cornerstones for understanding driver behavior, traffic dynamics, and supporting autonomous driving. As early as 2014, at the dawn of the deep learning era, my team proposed an innovative kNN-based data-driven car-following model. This model has been cited almost 200 times, and it is widely recognized as one of the first data-driven car-following models by review articles published by scholars from institutions such as the University of California, Berkeley (Zhang et al., 2025), the University of Washington (Chen et al., 2023), and Imperial College London (Rowam et al., 2025). In 2019, my team developed the first deep-learning-based lane-changing model using DBN and LSTM neural networks, which has since been cited over 300 times and is widely recognized in subsequent research (Siebke et al., 2023; Han et al., 2024; Wang et al., 2024; Huang et al., 2025) as a pioneering contribution to AI-driven modeling of driver behavior and traffic dynamics.Prediction is a central topic in transportation research and practice. I contributed to the development of the first CNN-based network-wide traffic speed prediction model, and the single paper has been cited over 1,600 times. Other representative works include spatial-temporal graph attention transformer-based trajectory prediction, graph CNN-based bike-sharing demand prediction, GAN-based travel time prediction, etc. All these works were published in leading journals, such as TRC, CACAIE, and Information Fusion, and have received substantial citations, making a significant impact on the field of AI-driven transportation prediction.",
+      "tags": ["DBN", "LSTM", "CNN-based network", "CNN", "GAN"]
     },
     "item1": {
-      "title": "LocoWiki Robot Locomotion Resource Hub",
-      "desc": "A one-stop resource hub for robot locomotion, built for ROBOCON preparation, research study, and engineering reference. It aggregates competition rules, university team technical talks, paper reading lists, and mainstream open-source project indexes, with a companion website and Feishu knowledge base.",
-      "tags": ["Wiki", "Knowledge Base", "Robotics", "Open Source"]
+      "title": "An early innovator in large language model (LLM) applications in transportation. ",
+      "desc": " Since the emergence of LLMs in 2023, my team was among the first to introduce LLM-based intelligent driving assistance, highlight the positive role of prompt engineering in enhancing prediction accuracy, and develop AI agent models for everyday route choice, with a series of early papers published in leading journals. These works rank among the earliest applications of LLMs and have attracted wide attention in the research community. In 2024, I was twice invited to introduce those LLM-based progresses in ground mobility at SAE International, the world’s leading authority on automotive industry standards. At the beginning of 2026, we had a Correspondence, titled "AI writing tools could lead scholars from low-income countries to erase their own voices", which was published in Nature.",
+      "tags": ["LLM", "prediction accuracy", "everyday route choices", "Nature"]
     },
     "item2": {
-      "title": "High Torque Desktop-Class Quadruped",
-      "desc": "A full-stack open-source quadruped project spanning mechanical design, URDF modeling, Isaac Gym RL training, and sim-to-real deployment. It centers on HTDW4438-OpenDog and works together with HTDW4438-AMP, HTDW4438_HIMloco, and HTDW4438_Isaacgym as one development pipeline.",
-      "tags": ["Robotics", "Reinforcement Learning", "Sim-to-Real", "Deployment"]
+      "title": "Developed autonomous driving strategies to mitigate traffic congestion, shaping the field",
+      "desc": "To address highway congestion and emissions, my team was the first to propose a feedback control–based congestion mitigation strategy for connected vehicles and the jam-absorption driving strategy, with results published in IEEE TITS and more than 300 citations and reported by Italian media.  Researchers in Japan cited our work on jam-absorption strategies more than ten times in a single paper (Nishi, 2020), recognizing the two-step jam-absorption strategy as an effective means of alleviating traffic congestion. I am leading a survey paper co-authored with scholars from MIT, Georgia Tech, and TU Delft, which is forthcoming in IEEE TITS, reflecting my international influence in this topic.For the urban scenarios, I introduced a novel future no-lane-change road transportation system for autonomous driving and subsequently extended the framework to include pedestrians. The series of works was published in IEEE TIV, IEEE TVT, and TRC, drawing wide attention from the research community (such as more than 100,000 views on LinkedIn). Researchers from institutions such as the University of Florida provided a detailed and positive assessment of the no-lane-change concept (Li et al., 2018), and subsequent studies by Antonio et al. (2022) and Zhao et al. (2025) considered it one of the first conflict-based intersection management.I have also devoted significant effort to predicting the motion of surrounding agents for autonomous vehicles, with a particular focus on intersection conflict scenarios. To date, I have developed a series of methods, including approaches based on Transformers, LLMs with CoT reasoning, and World Models.",
+      "tags": ["feedback control–based congestion mitigation strategy", "jam-absorption driving strategy", "no-lane-change road transportation system", "pedestrians"]
     },
     "item3": {
-      "title": "ROBOCON 2025 Legged Robot",
-      "desc": "Full-stack R&D for the 2025 ROBOCON legged robot. Responsible for carbon-tube mechanical modeling, force control algorithms, and 3D LiDAR SLAM navigation. Led the team to rank 30th in Speed, 31st in Obstacle, and 34th in Cross-Country among 180+ teams.",
-      "tags": ["Robotics", "Motion Control", "SLAM", "LiDAR", "Mechanical Design"]
+      "title": "Advanced traffic state sensing and visualization, driving practical applications",
+      "desc": "Time-space traffic diagrams are one of the most important traffic analysis and visualization tools. The series of works centered on the enhancement of the diagrams, including the mapping-to-cell approaches, the wave-aware construction, the traffic emission estimation and the resolution enhancement. In particular, the wave-aware method of constructing time-space diagrams has been substantively implemented in the well-known I-24 MOTION project in Nashville (Ji et al., 2024; Ji et al., 2026), as well as in the works of global researchers from the UK (Shang et al., 2023), Sweden (Tsanakas et al., 2022), and China (He et al., 2024). Notably, these implementations were carried out completely independently of our own research activities.",
+      "tags": ["mapping-to-cell", "wave-aware construction", "traffic emission estimation", "resolution enhancement", "Time-space traffic diagrams"]
     },
     "item4": {
-      "title": "Bionic Lobster Submersible",
-      "desc": "Buoyancy-controllable multi-DOF underwater robot. Developed the control system, including stepper peristaltic pumps, motor and servo drivers, gyroscope fusion, and I2C encoder closed-loop control. Designed a vectored propulsion model for omnidirectional movement and handled driver selection and waterproofing.",
-      "tags": ["Underwater Robotics", "Embedded Systems", "Vectored Propulsion", "Waterproof Engineering"]
+      "title": "Also active in resilience, sustainability, shared mobility, and travel behavior",
+      "desc": "Representative works include the assessment of the dynamic vulnerability of transportation systems, a mesoscopic CO2 emission estimation model with the consideration of traffic dynamics, multi-day rail-hailing behavior characteristics and modeling, and in-lab experiment-based day-to-day route choice modeling, demonstrating my broad research interests, strong research skills, effective team leadership and collaboration, and wide-reaching impact.I co-authored multiple highly cited review articles in transportation research, synthesizing trajectory data studies (citation>250), automated vehicle-involved traffic (citation>250), and transportation system resilience (citation>200). These reviews have guided subsequent research, reflecting both scholarly recognition and field-wide impact.",
+      "tags": ["dynamic vulnerability", "CO2 emission estimation model", "traffic dynamics", " automated vehicle-involved traffic"]
     },
     "item5": {
       "title": "Intelligent Rice Transplanting and Harvesting Robot",
