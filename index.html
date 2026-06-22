@@ -84,5 +84,29 @@
 
   <script src="assets/js/i18n.js"></script>
   <script src="assets/js/main.js"></script>
+<script>
+// 加载你修改的 lang/en.json
+fetch('lang/en.json')
+  .then(response => response.json())
+  .then(lang => {
+    console.log("✅ 语言文件加载成功", lang);
+
+    // --- 这里根据你的页面结构，替换对应的文字 ---
+    // 1. 替换导航栏文字（例子，按你页面实际元素调整）
+    document.querySelector('.logo').setAttribute('aria-label', lang.nav.home);
+
+    // 2. 替换自我介绍标题（把 #intro-title 换成你页面里实际的元素ID/类名）
+    // document.querySelector('#intro-title').textContent = lang.intro.title;
+
+    // 3. 替换自我介绍描述
+    // document.querySelector('#intro-desc').textContent = lang.intro.desc;
+
+    // 更多元素可以按这个格式添加
+  })
+  .catch(err => {
+    console.error("❌ 加载语言文件失败：", err);
+    alert("语言文件加载失败，请检查路径和格式");
+  });
+</script>
 </body>
 </html>
