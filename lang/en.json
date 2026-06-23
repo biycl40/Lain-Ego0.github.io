@@ -10,7 +10,7 @@
   "intro": {
     "avatarAlt": "Zhengbing He's avatar",
     "title": "Hello, I'm Zhengbing He",
-    "desc": "Professor in Autonomous and Intelligent Systems, University of Nottingham Ningbo China.\n\n✅ Research Funding: Principal Investigator, over $1 million for national key projects.\n\n✅ Academic Output: 180+ published papers, 50+ in top journals including Transportation Research & IEEE Transactions. Completed full publication coverage of TR series (A/B/C/D/E/F), including 20+ TRC papers and 10+ TITS papers, plus one Nature Correspondence.\n\n✅ Academic Metrics: Total citations > 8000, i10-index > 100, H-index > 40. IEEE Senior Member, listed in World’s Top 2% Scientists, ranked 67/30588 in Transportation & Logistics.\n\n✅ Editorial Positions: Senior Editor of IEEE TITS, Deputy Editor-in-Chief of IET ITS, Associate Editor of IEEE TIV, Editorial Advisory Board Member of TR Part C.\n\n✅ Research Scope: Urban mobility, system engineering and artificial intelligence. Covers traffic operation & control, sustainability, data-driven modeling, autonomous driving and LLM applications. I am a pioneer in AI traffic modeling, AV-based congestion relief and early explorer of generative AI in transportation."
+    "desc": "**Professor in Autonomous and Intelligent Systems.**\n**University of Nottingham Ningbo China.**\n\n\n· As a principal investigator, I have secured funding exceeding $1 million for national-level key projects.\n· I have published 180+ academic papers, including 50+ papers published in top-tier journals such as Transportation Research and IEEE Transactions.\n· I have published papers covering all sub-journals of Transportation Research series, including more than 20 TRC papers and over 10 TITS papers, as well as one Nature correspondence article.\n· Total citations reach over 8000, with an i10-index above 100 and an H-index exceeding 40.\n· I am an IEEE Senior Member and have been listed among the World’s Top 2% Scientists, ranking 67 out of 30588 researchers in Transportation & Logistics.\n· I hold multiple editorial positions including Senior Editor for IEEE Transactions on Intelligent Transportation Systems, Deputy Editor-in-Chief for IET Intelligent Transport Systems, Associate Editor for IEEE Transactions on Intelligent Vehicles and Editorial Advisory Board Member for Transportation Research Part C.\n\nMy research focuses on the intersection of urban mobility, systems engineering and artificial intelligence. It covers traditional research directions including traffic flow operation and control, transportation sustainability and system resilience, as well as emerging fields such as data-driven traffic modeling, autonomous driving and large language model applications. I am a pioneer in AI-driven transportation modeling and autonomous vehicle enabled traffic congestion mitigation, and also an early innovator engaged in generative AI application research within the transportation industry."
   },
   "projects": {
     "title": "Scientific Contributions",
@@ -28,52 +28,52 @@
     },
     "item0": {
       "title": "Pioneer in AI-Based Transportation Modeling",
-      "desc": "Core research on driver behavior and traffic dynamic modeling.\n\n🔹 2014: Proposed early kNN data-driven car-following model, cited nearly 200 times, widely recognized as classic pioneer work.\n🔹 2019: Developed DBN & LSTM based deep learning lane-changing model, cited over 300 times.\n🔹 Traffic Prediction: Led the first CNN-based network-wide speed prediction model with 1600+ citations.\n🔹 Other works: Spatio-temporal trajectory prediction, GAN travel time prediction, shared mobility demand prediction, published in TRC, CACAIE and other top journals.",
+      "desc": "· Put forward innovative kNN data-driven car-following model in 2014, widely recognized as one of the earliest representative studies in this field.\n· Developed the first deep learning lane-changing model based on DBN and LSTM in 2019, which has been widely cited and affirmed by peers.\n· Led the research of CNN-based network-wide traffic speed prediction model, with high academic influence and large citation volume.\n· Completed a series of researches on trajectory prediction, shared travel demand prediction and travel time prediction based on various intelligent algorithms.\n\nThese research results have been published in many high-level academic journals and have effectively promoted the development of intelligent traffic prediction technology.",
       "tags": ["DBN", "LSTM", "CNN", "GAN", "Traffic Prediction"]
     },
     "item1": {
       "title": "Early Practitioner of LLM in Transportation",
-      "desc": "One of the earliest teams applying large language models to intelligent transportation research.\n\n🔹 Core direction: LLM intelligent driving assistance, prompt engineering optimization, AI agent route decision model.\n🔹 Academic influence: Series early papers published in authoritative journals, leading the industry research trend.\n🔹 Academic Exchange: Twice invited by SAE International in 2024 to share LLM traffic research achievements.\n🔹 High-level achievement: Published Nature Correspondence in early 2026.",
+      "desc": "· Took the lead in exploring LLM-based intelligent driving assistance related research since 2023.\n· Verified the actual improvement effect of prompt engineering on traffic prediction accuracy.\n· Built AI agent models suitable for daily travel route selection scenarios.\n· Was invited twice by SAE International in 2024 to share relevant research progress.\n· Published academic correspondence articles in Nature in early 2026.\n\nA series of early research results have attracted wide attention in the academic circle and laid a solid foundation for the follow-up research of large models in the transportation field.",
       "tags": ["LLM", "Prediction Accuracy", "Route Choice", "Nature"]
     },
     "item2": {
       "title": "Autonomous Driving Congestion Mitigation Strategy",
-      "desc": "Dedicated to solving traffic congestion and emission problems based on autonomous vehicle technology.\n\n🔹 Highway scenario: Proposed feedback control congestion relief strategy and jam-absorption driving strategy, published in IEEE TITS, cited over 300 times, widely recognized by Japanese and European scholars.\n🔹 Urban scenario: Created innovative lane-free traffic operation system, extended to pedestrian participation scenarios, serial papers included in IEEE TIV, IEEE TVT and TRC.\n🔹 Frontier research: Focus on surrounding vehicle motion prediction under intersection conflict scenarios, involving Transformer, CoT-LLM and World Model related methods.\n🔹 International cooperation: Co-compiling influential review papers with scholars from MIT, Georgia Tech and TU Delft.",
+      "desc": "· Proposed feedback control congestion mitigation strategy and jam-absorption driving strategy for connected vehicles to solve highway traffic congestion problems.\n· Put forward innovative lane-free autonomous driving traffic system and expanded it to pedestrian traffic research scenarios.\n· Carried out in-depth research on surrounding vehicle motion prediction oriented to intersection conflict scenarios.\n· Cooperated with well-known university scholars to sort out frontier research progress in this field.\n\nThe relevant research conclusions have been recognized and cited by many foreign research teams, with outstanding international academic influence.",
       "tags": ["Feedback Control Strategy", "Jam-absorption Driving Strategy", "Lane-free Traffic System", "Pedestrian Traffic Research"]
     },
     "item3": {
       "title": "Traffic State Perception & Visualization",
-      "desc": "Systematic optimization and engineering application of traffic space-time analysis tools.\n\n🔹 Main research: Cell mapping method, traffic wave aware construction, traffic emission estimation, data resolution improvement.\n🔹 Practical landing: Wave-aware construction method has been applied to the famous American I-24 MOTION project.\n🔹 Industry recognition: Related methods have been independently adopted by research teams in Britain, Sweden and China.",
+      "desc": "· Completed systematic optimization research on time-space traffic diagram drawing method.\n· Realized effective application of traffic wave perception construction method in actual large-scale traffic research projects.\n· Carried out in-depth research in traffic data mapping, traffic emission estimation and data resolution improvement.\n\nThe related research methods have been independently adopted and applied by many research teams at home and abroad, and have strong practical engineering application value.",
       "tags": ["mapping-to-cell", "wave-aware construction", "traffic emission estimation", "resolution enhancement", "Time-space traffic diagrams"]
     },
     "item4": {
       "title": "Multidisciplinary Transportation Research",
-      "desc": "Expand research boundaries and carry out diversified interdisciplinary research.\n\n🔹 Research directions: Transportation system vulnerability assessment, traffic dynamics based carbon emission estimation, ride-hailing travel behavior analysis, experimental route selection modeling.\n🔹 Academic summary: Published many highly cited review papers, sorting out trajectory research, automatic driving traffic and system resilience research progress, each paper cited more than 200 times.\n🔹 Comprehensive ability: Reflects solid research foundation, team management experience and extensive academic influence.",
+      "desc": "· Conducted research on dynamic vulnerability assessment of transportation system.\n· Established mesoscopic carbon emission estimation model combined with traffic dynamic characteristics.\n· Completed empirical research on travel behavior and daily route selection rules.\n· Published many highly cited review papers to sort out research progress in related fields.\n\nIt fully reflects my diversified research vision, solid academic ability and good team research coordination ability.",
       "tags": ["dynamic vulnerability", "CO2 emission estimation model", "traffic dynamics", "automated vehicle-involved traffic"]
     },
     "item5": {
       "title": "Intelligent Rice Transplanting and Harvesting Robot",
-      "desc": "Agricultural embedded robot oriented to farm work scenarios.\n\n🔹 Platform: Based on FreeRTOS system, equipped with DJI 3508 motor drive.\n🔹 Function: Realize mechanical claw lifting and omnidirectional chassis movement, positioning accuracy ±5 mm.\n🔹 Personal work: Participate in pneumatic structure design and hardware circuit wiring, complete dual robot cooperative operation development.",
+      "desc": "· Adopts FreeRTOS embedded system architecture and is driven by DJI 3508 motors.\n· Realizes precise positioning within ±5 mm and omnidirectional chassis movement function.\n· Participates in pneumatic structure design and hardware circuit wiring work.\n· Supports dual robot cooperative operation scene application.\n\nIt is a practical agricultural robot developed for field farm work scenarios.",
       "tags": ["Agricultural Robotics", "FreeRTOS", "Motor Control", "Multi-Robot Collaboration"]
     },
     "item6": {
       "title": "SliverWolf Desktop Quadruped & Manipulator",
-      "desc": "Open source lightweight desktop 12-degree-of-freedom quadruped robot.\n\n🔹 Hardware: STM32F103 main control + MG92R high-precision steering gear.\n🔹 Open source content: 3D structure drawing, PCB file, bottom firmware, voice control program.\n🔹 Control mode: Bluetooth, IMU attitude, key operation, LD3320 voice recognition.\n🔹 Realized actions: Walking, turning, crawling, handshake, intelligent grabbing and other interactive functions.",
+      "desc": "· Open-source 12-degree-of-freedom serial desktop quadruped robot with manipulator structure.\n· Mainly controlled by STM32F103, matched with high-precision MG92R steering gear.\n· Rich open-source resources including structural drawings, hardware files and underlying control firmware.\n· Supports voice recognition, inertial attitude, Bluetooth and multi-mode control.\n\nIt can realize daily walking, turning, crawling, interactive handshake and intelligent object grabbing and other rich actions.",
       "tags": ["STM32F103", "Voice Control", "IMU", "LD3320", "Robotic Arm"]
     },
     "item7": {
       "title": "3508 Legged Robot Drive Test Platform",
-      "desc": "Professional brushless motor quadruped robot algorithm verification platform.\n\n🔹 Power scheme: DJI M3508 motor drive, iterated and optimized by the robot team for many years.\n🔹 Core function: Adjustable PID parameters, stable standing, gyro attitude balance, lidar fixed height cruise.\n🔹 Application scenario: Meet all gait debugging and field test requirements of ROBOCON competition legged robots.",
+      "desc": "· A quadruped robot algorithm verification platform built based on DJI M3508 brushless motor.\n· Has adjustable PID motor parameters and stable standing balance control function.\n· Integrates gyro attitude calculation and laser radar fixed-height cruise function.\n· Matches complete gait logic and field test verification scheme.\n\nIt is widely used in the development and debugging of competitive legged robot control programs.",
       "tags": ["M3508", "Motor Control", "PID", "Sensor Fusion", "Legged Robot"]
     },
     "item8": {
       "title": "ROBOCON2024-PPS Positioning System",
-      "desc": "Special high-precision planar positioning system for robot competitions.\n\n🔹 Hardware architecture: STM32F103C8T6 + RS485 absolute encoder + omnidirectional wheel coding disc.\n🔹 Core performance: Realize millimeter-level two-dimensional displacement recording, synchronously collect inertial attitude data.\n🔹 Practical value: Provide accurate data support for robot autonomous positioning, path planning and automatic driving test.",
+      "desc": "· High-precision plane positioning system based on STM32 main control chip.\n· Uses RS485 absolute encoder to collect displacement data to achieve millimeter-level positioning.\n· Synchronously collects inertial attitude information to assist robot posture judgment.\n· Can stably output data to the main control board for path planning and autonomous driving.",
       "tags": ["STM32F103", "Positioning", "RS485", "Absolute Encoder", "IMU"]
     },
     "item9": {
       "title": "Typst Chinese Resume Template Library",
-      "desc": "Efficient typesetting tool set suitable for academic and workplace resumes.\n\n🔹 Resource content: Multiple sets of finished resume templates, preview images, avatar materials.\n🔹 Use experience: Cooperate with VS Code plug-in to realize real-time preview and one-click export PDF.\n🔹 Supporting documents: Complete compilation commands, batch export methods and font environment configuration tutorials.",
+      "desc": "· Rich editable resume templates covering multiple mainstream layout styles.\n· Cooperates with VS Code plug-ins to realize real-time preview and one-click PDF export.\n· Complete supporting documents including compilation commands and font configuration tutorials.\n· Equipped with matching preview pictures and avatar material resources.\n\nIt greatly simplifies the typesetting work of academic resumes and daily formal documents.",
       "tags": ["Typst", "Resume", "Template", "PDF"]
     }
   },
@@ -81,15 +81,15 @@
     "title": "Articles",
     "item0": {
       "title": "Robotics Engineer Learning Roadmap (Preview) - Lain-Ego on Zhihu",
-      "desc": "Systematic learning route for robotics practitioners.\nCovers motion control, environment perception, embedded development and SLAM positioning, with phased learning plans and high-quality resource classification."
+      "desc": "· Sort out the whole learning system of robotics engineering direction.\n· Split core modules such as motion control, environment perception and embedded development.\n· Match phased learning plans and high-quality learning resource lists."
     },
     "item1": {
       "title": "A Guide to Career Paths in the Robotics Industry — for High School Students - KKR Database on Zhihu",
-      "desc": "Sort out all branches and development directions of the robotics industry.\nHelp students connect university major selection with future career planning, and clarify industry development layout."
+      "desc": "· Comprehensively sort out all development branches of the robotics industry.\n· Clarify the corresponding relationship between university majors and industry employment directions.\n· Help students establish clear future study and employment planning ideas."
     },
     "item2": {
       "title": "On the Organizational Maturity of University Robotics Competition Teams - KKR Database on Zhihu",
-      "desc": "In-depth discussion on team stable operation mode.\nIncluding team structure optimization, technical knowledge inheritance and multi-person collaborative management experience, suitable for long-term iteration of student teams."
+      "desc": "· Summarize the mature operation mode of university student robot teams.\n· Put forward practical schemes for knowledge inheritance and team collaborative management.\n· Provide effective reference for the stable long-term development of student competition teams."
     }
   },
   "timeline": {
@@ -97,57 +97,57 @@
     "event11": {
       "date": "2026.03 - Present",
       "title": "Internship at Qianxing Intelligence",
-      "desc": "Engaged in humanoid robot motion control and human-computer interaction related R&D work."
+      "desc": "Responsible for motion control and human-robot interaction R&D for humanoid robots."
     },
     "event10": {
       "date": "2026.03",
       "title": "Launched LocoWiki Resource Hub",
-      "desc": "Build a special knowledge platform for robot competitions and academic learning, integrating competition rules, technical sharing, paper lists and high-quality open source projects."
+      "desc": "Built a resource platform integrating competition rules, technical sharing, paper reading lists and open-source project resources."
     },
     "event12": {
       "date": "2025.11",
       "title": "Launched OpenDoge Open-Source Quadruped Crowdfunding",
-      "desc": "As one of the core founding developers, responsible for algorithm framework and underlying driver development. The project is scheduled to be officially delivered in late June 2026."
+      "desc": "Served as core founding developer, responsible for algorithm and underlying driver development, and the project will be delivered officially in late June 2026."
     },
     "event1": {
       "date": "2024.05",
       "title": "Open-Sourced SliverWolf Desktop Serial-Link Quadruped",
-      "desc": "Officially open source self-developed desktop quadruped robot, integrating voice interaction and mechanical arm cooperative operation functions."
+      "desc": "Released self-developed desktop quadruped robot with voice interaction and manipulator collaboration functions."
     },
     "event2": {
       "date": "2024.07",
       "title": "2024 ROBOCON National Competition",
-      "desc": "Complete the embedded control system development based on FreeRTOS, realize ±5 mm high-precision positioning, ball launching and clamping functions."
+      "desc": "Completed embedded control system development based on FreeRTOS to realize high-precision positioning and executive functions."
     },
     "event4": {
       "date": "2024.11",
       "title": "Fujian Intelligent Marine Equipment Design Competition",
-      "desc": "Take the lead in completing the control system development of bionic lobster underwater robot and win the grand prize."
+      "desc": "Led the development of the control system of bionic underwater robot and won the grand prize."
     },
     "event5": {
       "date": "2024.12",
       "title": "2024 World Marine Equipment Conference",
-      "desc": "Represent the school to participate in the exhibition, and the bionic underwater robot project was reported by Xinhua News Agency."
+      "desc": "Represented the school to participate in the exhibition, and relevant achievements were reported by official media."
     },
     "event6": {
       "date": "2025.07",
       "title": "2025 ROBOCON National Competition",
-      "desc": "Independently complete the full stack development of legged robot, and win national second prizes in speed race, obstacle avoidance race and cross-country race."
+      "desc": "Independently completed full-stack development of legged robot and won many national second prizes."
     },
     "event7": {
       "date": "2025.08",
       "title": "2025 National Undergraduate Electronics Design Contest",
-      "desc": "Responsible for the hardware design and physical production of the ranging system power detection module, and won the national second prize."
+      "desc": "Completed hardware design and production of the ranging system module and won the national second prize."
     },
     "event8": {
       "date": "2025.09",
       "title": "Open-Sourced BRS Parallel-Link Quadruped Robot",
-      "desc": "Open source all mechanical structure drawings and underlying control source code of self-designed parallel quadruped robot on GitHub."
+      "desc": "Open-sourced all mechanical drawings and control codes of self-designed parallel quadruped robot."
     },
     "event9": {
       "date": "2025.10 - 2026.03",
       "title": "Internship at HighTorque Robotics",
-      "desc": "Participate in mechanical structure optimization, control algorithm iteration and system joint debugging of bionic quadruped robot, covering open source prototypes and commercial products."
+      "desc": "Participated in mechanical optimization, algorithm iteration and system joint debugging of bionic quadruped robot products."
     }
   },
   "skills": {
